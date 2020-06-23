@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: myWebSocket
-server:
-  port: 19800
-  servlet:
-    context-path: /myWebSocket
